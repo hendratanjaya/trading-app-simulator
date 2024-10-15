@@ -26,6 +26,7 @@ How To Use:
          tradingAppSimulator
      
      -If you are using code editor such as Dev-C++ you can just simply run the code in the editor, and will work just fine.
+     
      -Or run the .exe fle i prvided in the exe_folder, dont worry its not a virus.
      
 Thank You~
