@@ -1,6 +1,6 @@
 # Trading App Simulator
 
-A simple console app to simulate trading process, this app is made with C language implementing data structure principles such as Single Linked List, Double Linked List, and Hash Table.
+A simple console app to simulate trading process, this app is made with C language implementing variouse data structures such as Single Linked List, Double Linked List, and Hash Table.
 This is an assigment project when I was a Laboratory Assistant Trainee in my university, so bugs or inefficient algorithms is expected.
 
 Landing Page: 
